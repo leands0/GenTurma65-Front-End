@@ -1,0 +1,18 @@
+p{
+    font-size: 20px;
+}
+
+#p-first{
+    font-weight:bold;
+    color:#840907;
+}
+
+.p-color{
+    color:blue;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

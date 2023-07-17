@@ -1,0 +1,6 @@
+.container{
+    display:flex;
+    padding:25px;
+    margin: 25px;
+    align-items:center;
+}
